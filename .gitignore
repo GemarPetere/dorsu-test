@@ -41,7 +41,6 @@ out/
 
 # Gatsby files
 .cache/
-public/
 
 # React Native
 .expo/
