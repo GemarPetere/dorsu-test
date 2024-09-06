@@ -1,0 +1,62 @@
+# Node modules directory
+node_modules/
+
+# Logs
+*.log
+
+# Debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Next.js build output
+.next/
+out/
+
+# Gatsby files
+.cache/
+public/
+
+# React Native
+.expo/
+*.jks
+*.keystore
+
+# Serverless framework
+.serverless/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Yarn Integrity file
+.yarn-integrity
+
+# NPM package lock
+package-lock.json
